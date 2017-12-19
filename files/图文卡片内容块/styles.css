@@ -1,0 +1,253 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-70px;
+  width:1060px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+.u1896_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:360px;
+  height:180px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(228, 228, 228, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+.u1896 {
+  position:absolute;
+  left:160px;
+  top:0px;
+  width:360px;
+  height:180px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+.u1897 {
+  position:absolute;
+  left:30px;
+  top:20px;
+  width:300px;
+  word-wrap:break-word;
+}
+.u1898_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(204, 204, 204, 1);
+  border:none;
+  border-radius:3px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑';
+  font-weight:401;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+}
+.u1898 {
+  position:absolute;
+  left:192px;
+  top:129px;
+  width:70px;
+  height:30px;
+  font-family:'微软雅黑';
+  font-weight:401;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+}
+.u1899 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:66px;
+  word-wrap:break-word;
+}
+.u1900_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:160px;
+  height:180px;
+  background:inherit;
+  background-color:rgba(215, 215, 215, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#FFFFFF;
+  line-height:36px;
+}
+.u1900 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:160px;
+  height:180px;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#FFFFFF;
+  line-height:36px;
+}
+.u1900_div.mouseOver {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:160px;
+  height:180px;
+  background:inherit;
+  background-color:rgba(52, 73, 94, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#FFFFFF;
+  line-height:36px;
+}
+.u1900.mouseOver {
+}
+.u1901 {
+  position:absolute;
+  left:30px;
+  top:72px;
+  width:100px;
+  word-wrap:break-word;
+}
+.u1902_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:75px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(204, 204, 204, 1);
+  border:none;
+  border-radius:3px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'微软雅黑';
+  font-weight:401;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+}
+.u1902 {
+  position:absolute;
+  left:272px;
+  top:129px;
+  width:75px;
+  height:30px;
+  font-family:'微软雅黑';
+  font-weight:401;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+}
+.u1903 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:71px;
+  word-wrap:break-word;
+}
+#u1895-1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:520px;
+  height:180px;
+}
+#u1895-2 {
+  position:absolute;
+  left:540px;
+  top:0px;
+  width:520px;
+  height:180px;
+}
+#u1895-3 {
+  position:absolute;
+  left:0px;
+  top:210px;
+  width:520px;
+  height:180px;
+}
+#u1895-4 {
+  position:absolute;
+  left:540px;
+  top:210px;
+  width:520px;
+  height:180px;
+}
+#u1895-5 {
+  position:absolute;
+  left:0px;
+  top:420px;
+  width:520px;
+  height:180px;
+}
+#u1895-6 {
+  position:absolute;
+  left:540px;
+  top:420px;
+  width:520px;
+  height:180px;
+}
+#u1895 {
+  position:absolute;
+  left:70px;
+  top:80px;
+  width:1060px;
+  height:600px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+}
+#u1904 {
+  position:absolute;
+  left:70px;
+  top:680px;
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}

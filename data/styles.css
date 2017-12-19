@@ -1,0 +1,82 @@
+﻿.ax_default {
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+  text-align:center;
+  line-height:normal;
+}
+._默认样式 {
+}
+._形状 {
+}
+._水平线 {
+}
+.icon {
+}
+._文本段落 {
+  text-align:left;
+}
+._图片 {
+}
+._文本链接 {
+  color:#0000FF;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+._形状1 {
+}
+.line {
+}
+._形状2 {
+}
+._鼠标按下文本链接时 {
+}
+.image {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+._形状3 {
+  font-size:13px;
+  color:#000000;
+}
+._文本段落1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+._鼠标悬停文本链接时 {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.basicbutton {
+  font-family:'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.ellipse {
+}
+._复选框 {
+  text-align:left;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.box_3 {
+}
+._文本框 {
+  color:#000000;
+  text-align:left;
+}
+.box_2 {
+}
